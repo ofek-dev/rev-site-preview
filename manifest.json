@@ -1,0 +1,151 @@
+{
+ "/": {
+  "title": "Real Estate Virtual Assistants | Vetted VAs at 20% the Cost",
+  "meta": "Hire a pre-vetted real estate virtual assistant for ISA calling, transaction coordination, MLS admin and CRM follow-up. Top 1% talent at about 20% of a US hire.",
+  "h1": "Real estate virtual assistants, pre-vetted.",
+  "type": "home"
+ },
+ "/roles/": {
+  "title": "Real Estate Virtual Assistant Roles | ISA, TC, Listing, CRM",
+  "meta": "Six real estate virtual assistant roles we place: ISA cold calling, transaction coordinator, listing and MLS admin, CRM follow-up, property management, more.",
+  "h1": "Real estate virtual assistant roles",
+  "type": "hub"
+ },
+ "/roles/real-estate-isa-cold-calling/": {
+  "title": "Real Estate ISA Virtual Assistant | Cold Calling VA Services",
+  "meta": "Hire a real estate ISA virtual assistant to cold call expireds and FSBOs, qualify leads and set appointments. Pre-vetted, English-fluent, working your hours.",
+  "h1": "Real estate ISA virtual assistants",
+  "type": "role"
+ },
+ "/roles/transaction-coordinator/": {
+  "title": "Transaction Coordinator Virtual Assistant | Real Estate TC",
+  "meta": "Hire a transaction coordinator virtual assistant to run contract-to-close: deadlines, disclosures, e-signatures and lender follow-up. Pre-vetted, your hours.",
+  "h1": "Transaction coordinator virtual assistants",
+  "type": "role"
+ },
+ "/roles/listing-and-mls-admin/": {
+  "title": "Listing & MLS Admin Virtual Assistant | Real Estate Listings",
+  "meta": "Hire a listing and MLS admin virtual assistant for MLS input, photo scheduling, showing coordination, feedback and seller updates. Pre-vetted, your hours.",
+  "h1": "Listing and MLS admin virtual assistants",
+  "type": "role"
+ },
+ "/roles/crm-and-lead-follow-up/": {
+  "title": "CRM & Lead Follow-Up Virtual Assistant for Real Estate Teams",
+  "meta": "Hire a CRM and lead follow-up virtual assistant to clean your database, run drip campaigns, answer new leads fast and nurture your sphere. Pre-vetted.",
+  "h1": "CRM and lead follow-up virtual assistants",
+  "type": "role"
+ },
+ "/roles/property-management-admin/": {
+  "title": "Property Management Virtual Assistant | Tenant & Leasing VA",
+  "meta": "Hire a property management virtual assistant for tenant messages, maintenance coordination, applications, rent follow-up and owner reports. Pre-vetted.",
+  "h1": "Property management virtual assistants",
+  "type": "role"
+ },
+ "/roles/marketing-and-social-media/": {
+  "title": "Real Estate Marketing Virtual Assistant | Social Media VA",
+  "meta": "Hire a real estate marketing virtual assistant for listing graphics, social posting, reel captions, newsletters and review requests. Pre-vetted, your hours.",
+  "h1": "Real estate marketing virtual assistants",
+  "type": "role"
+ },
+ "/how-it-works/": {
+  "title": "How It Works | Hire a Vetted Real Estate Virtual Assistant",
+  "meta": "How hiring a real estate virtual assistant works: send the brief, we vet the top 1%, you meet two or three candidates within two weeks, then hire. Guaranteed.",
+  "h1": "From brief to hired real estate VA",
+  "type": "page"
+ },
+ "/faq/": {
+  "title": "Real Estate Virtual Assistant FAQ | Cost, Vetting, Hours",
+  "meta": "Answers to what agents and teams ask before hiring a real estate virtual assistant: cost, where VAs are based, vetting, time zones, guarantees and tools.",
+  "h1": "Real estate virtual assistant questions",
+  "type": "page"
+ },
+ "/real-estate-virtual-assistant-vs-in-house-assistant/": {
+  "title": "Real Estate Virtual Assistant vs In-House Assistant: Verdict",
+  "meta": "Real estate virtual assistant vs. in-house assistant compared on cost, time to hire, hours, skills and risk, with a clear verdict for agents and teams.",
+  "h1": "Virtual assistant vs. in-house assistant",
+  "type": "page"
+ },
+ "/about/": {
+  "title": "About Real Estate Virtual Staff | A Talent Trooper Company",
+  "meta": "Real Estate Virtual Staff is the real estate division of Talent Trooper, placing the top 1% of Philippine virtual assistants with agents, teams and managers.",
+  "h1": "Built by founders who hired their own VAs first",
+  "type": "page"
+ },
+ "/team/": {
+  "title": "Our Team | Real Estate Virtual Staff by Talent Trooper",
+  "meta": "Meet the Real Estate Virtual Staff team: founders, recruiters, account executives and support staff who vet and place real estate virtual assistants for agents.",
+  "h1": "The people behind your next hire",
+  "type": "page"
+ },
+ "/reviews/": {
+  "title": "Client Reviews | Real Estate Virtual Staff Ratings",
+  "meta": "Read 30 client reviews of Real Estate Virtual Staff: agents, teams, investors and property managers rating their real estate virtual assistants.",
+  "h1": "What clients say about their VAs",
+  "type": "page",
+  "avg": 4.9,
+  "n": 30
+ },
+ "/blog/": {
+  "title": "Real Estate Virtual Assistant Blog | Hiring & Delegation",
+  "meta": "Guides for agents, teams and property managers on hiring, onboarding and getting results from real estate virtual assistants: roles, task lists and onboarding.",
+  "h1": "Guides for agents, teams and property managers",
+  "type": "page"
+ },
+ "/blog/what-a-real-estate-virtual-assistant-can-do/": {
+  "title": "What a Real Estate Virtual Assistant Can and Cannot Do",
+  "meta": "A practical list of the tasks a real estate virtual assistant can take off your plate, the ones that stay with the licensed agent, and how to split the work.",
+  "h1": "What a Real Estate Virtual Assistant Can (and Cannot) Do",
+  "type": "post"
+ },
+ "/blog/isa-vs-transaction-coordinator-which-to-hire-first/": {
+  "title": "Real Estate ISA vs Transaction Coordinator: Which VA First?",
+  "meta": "Deciding between an inside sales agent and a transaction coordinator as your first real estate VA? Use this simple test based on where deals are leaking.",
+  "h1": "ISA vs. Transaction Coordinator: Which VA to Hire First",
+  "type": "post"
+ },
+ "/blog/onboarding-a-real-estate-va-first-30-days/": {
+  "title": "How to Onboard a Real Estate Virtual Assistant in 30 Days",
+  "meta": "A week-by-week onboarding plan for a new real estate virtual assistant: access, systems, daily check-ins, first deliverables and day-30 metrics.",
+  "h1": "How to Onboard a Real Estate VA in the First 30 Days",
+  "type": "post"
+ },
+ "/start-hiring/": {
+  "title": "Start Hiring | Real Estate VA Candidates in Two Weeks",
+  "meta": "Send your real estate virtual assistant brief: role, hours, time zone and tools. Meet two or three pre-vetted candidates within two weeks. No fee until hired.",
+  "h1": "Tell us about the role.",
+  "type": "form"
+ },
+ "/contact/": {
+  "title": "Contact Real Estate Virtual Staff | Call, Text or Send Brief",
+  "meta": "Contact Real Estate Virtual Staff: call or text (646) 533-3034, email us, or send your real estate virtual assistant brief. New York, Santa Monica, Phoenix.",
+  "h1": "Talk to a person about your hire.",
+  "type": "form"
+ },
+ "/privacy-policy/": {
+  "title": "Privacy Policy | Real Estate Virtual Staff",
+  "meta": "How Real Estate Virtual Staff, a Talent Trooper company, collects, uses and protects the information you share when you request candidates or contact us.",
+  "h1": "Privacy policy",
+  "type": "page",
+  "noindex": false
+ },
+ "/terms/": {
+  "title": "Terms and Conditions | Real Estate Virtual Staff",
+  "meta": "Terms governing use of the Real Estate Virtual Staff website and the recruitment and placement services of The Task Trooper, LLC dba Talent Trooper.",
+  "h1": "Terms and conditions",
+  "type": "page",
+  "noindex": false
+ },
+ "/thank-you/": {
+  "title": "Thank You | Real Estate Virtual Staff",
+  "meta": "Thanks for sending your real estate virtual assistant brief. Our team will confirm the role within one business day and send candidates within two weeks.",
+  "h1": "We got your brief.",
+  "type": "page",
+  "noindex": true
+ },
+ "_meta": {
+  "domain": "realestatevirtualstaff.com",
+  "built": "2026-10-08",
+  "placeholder_images": [],
+  "pages": 23
+ }
+}
