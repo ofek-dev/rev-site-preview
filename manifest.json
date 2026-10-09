@@ -110,9 +110,9 @@
   "type": "post"
  },
  "/start-hiring/": {
-  "title": "Start Hiring | Real Estate VA Candidates in Two Weeks",
+  "title": "Start Your Free Search | Real Estate VA Candidates in 48 Hrs",
   "meta": "Send your real estate virtual assistant brief: role, hours, time zone and tools. Meet two or three pre-vetted candidates within two weeks. No fee until hired.",
-  "h1": "Tell us about the role.",
+  "h1": "Start your free search.",
   "type": "form"
  },
  "/contact/": {

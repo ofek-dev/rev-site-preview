@@ -57,7 +57,7 @@ p{margin:0 0 1.1em}a{color:var(--ink);text-decoration:none}a:hover{color:var(--a
 .statbar.statbar--marq .smarq-track{display:flex;flex-wrap:nowrap;width:max-content;animation:tscroll 48s linear infinite;align-items:center;gap:0}
 .statbar.statbar--marq:hover .smarq-track{animation-play-state:paused}
 .statbar.statbar--marq .sitem{flex:0 0 auto;display:inline-flex;align-items:center;gap:12px;padding:0 34px;border-right:1px solid rgba(255,255,255,.14);font-family:"Inter",sans-serif;font-size:15px;font-weight:600;color:#e7ece6;white-space:nowrap;background:transparent}
-.statbar.statbar--marq .sitem a{color:#e7ece6;display:inline-flex;align-items:center;gap:12px}
+.statbar.statbar--marq .sitem a{color:#e7ece6;display:inline-flex;align-items:center;gap:12px}.statbar.statbar--marq .sitem--link a{text-decoration:underline;text-underline-offset:4px;text-decoration-color:var(--accent-soft)}.statbar.statbar--marq .sitem--link a:hover{color:#fff}
 .statbar.statbar--marq .stxt b{display:inline;font-size:22px;font-weight:800;color:#fff;margin-right:8px;font-family:"Inter",sans-serif}
 .statbar.statbar--marq .sitem svg{width:26px;height:26px;flex:0 0 auto;display:block;color:var(--accent-soft)}
 @keyframes tscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
@@ -96,7 +96,7 @@ p{margin:0 0 1.1em}a{color:var(--ink);text-decoration:none}a:hover{color:var(--a
 .tchip{font-family:"Inter",sans-serif;font-weight:600;font-size:15px;color:var(--ink);background:var(--cream);border:1px solid var(--border);border-radius:999px;padding:12px 22px;white-space:nowrap}
 /* embedded form */
 .embedform{max-width:760px;margin:36px auto 0;background:var(--ink-dark);border:1px solid var(--border);border-radius:16px;padding:10px;box-shadow:0 14px 40px rgba(0,0,0,.12)}
-.embedform iframe{width:100%;border:0;display:block;min-height:900px}
+.embedform iframe{width:100%;border:0;display:block;min-height:900px!important}
 /* faq */
 .faqacc details{background:#fff;border:1px solid var(--border);border-radius:12px;padding:6px 20px;margin-bottom:12px}
 .faqacc summary{font-family:"Inter",sans-serif;font-weight:600;font-size:17px;color:var(--ink);cursor:pointer;padding:14px 34px 14px 0;list-style:none;position:relative}
@@ -163,7 +163,7 @@ p{margin:0 0 1.1em}a{color:var(--ink);text-decoration:none}a:hover{color:var(--a
 #roles .grid-3,#industries .grid-3{display:flex!important;flex-wrap:nowrap!important;overflow-x:auto!important;scroll-snap-type:x mandatory!important;gap:14px!important;-webkit-overflow-scrolling:touch}#roles .grid-3>*,#industries .grid-3>*{flex:0 0 80%!important;scroll-snap-align:start!important}
 .faqacc .faq-collapsible{display:none!important}.faqacc.faq-open .faq-collapsible{display:block!important}.faq-showall{display:block!important;width:100%!important;margin-top:14px!important;padding:14px 18px!important;border:1px solid var(--border)!important;border-radius:10px!important;background:#fff!important;color:var(--ink)!important;font:inherit!important;font-weight:700!important;cursor:pointer!important}.faqacc.faq-open .faq-showall{display:none!important}
 .floatq{left:0!important;right:0!important;bottom:0!important;top:auto!important;width:100%!important;border-radius:0!important;text-align:center!important;padding:16px 20px calc(16px + env(safe-area-inset-bottom))!important;font-size:16px!important}
-.embedform iframe{min-height:1500px}.grid-4{grid-template-columns:1fr!important}.foot-main{grid-template-columns:1fr!important}.foot-bottom{flex-direction:column}.foot-bottom a{margin:0 16px 0 0}.rev-head{gap:20px}.post-hero img{height:220px}}
+.embedform iframe{min-height:1300px!important}.grid-4{grid-template-columns:1fr!important}.foot-main{grid-template-columns:1fr!important}.foot-bottom{flex-direction:column}.foot-bottom a{margin:0 16px 0 0}.rev-head{gap:20px}.post-hero img{height:220px}}
 /* how-it-works timeline */
 #how{--hw-navy:var(--ink);--hw-navy-dark:var(--ink-dark);--hw-amber:var(--accent);--hw-amber-hi:var(--accent-hi);--hw-line:var(--border);--hw-muted:var(--muted)}
 .hiw-tl{position:relative;max-width:920px;margin:56px auto 0}
