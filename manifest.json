@@ -79,11 +79,11 @@
  },
  "/reviews/": {
   "title": "Client Reviews | Real Estate Virtual Staff Ratings",
-  "meta": "Read 30 client reviews of Real Estate Virtual Staff: agents, teams, investors and property managers rating their real estate virtual assistants.",
+  "meta": "Read 44 client reviews of Real Estate Virtual Staff: agents, teams, investors and property managers rating their real estate virtual assistants.",
   "h1": "What clients say about their VAs",
   "type": "page",
   "avg": 4.9,
-  "n": 30
+  "n": 44
  },
  "/blog/": {
   "title": "Real Estate Virtual Assistant Blog | Hiring & Delegation",
@@ -144,7 +144,7 @@
  },
  "_meta": {
   "domain": "realestatevirtualstaff.com",
-  "built": "2026-10-08",
+  "built": "2026-10-09",
   "placeholder_images": [],
   "pages": 23
  }
