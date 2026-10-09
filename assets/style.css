@@ -58,7 +58,7 @@ p{margin:0 0 1.1em}a{color:var(--ink);text-decoration:none}a:hover{color:var(--a
 .statbar.statbar--marq:hover .smarq-track{animation-play-state:paused}
 .statbar.statbar--marq .sitem{flex:0 0 auto;display:inline-flex;align-items:center;gap:12px;padding:0 34px;border-right:1px solid rgba(255,255,255,.14);font-family:"Inter",sans-serif;font-size:15px;font-weight:600;color:#e7ece6;white-space:nowrap;background:transparent}
 .statbar.statbar--marq .sitem a{color:#e7ece6;display:inline-flex;align-items:center;gap:12px}.statbar.statbar--marq .sitem--link a{text-decoration:underline;text-underline-offset:4px;text-decoration-color:var(--accent-soft)}.statbar.statbar--marq .sitem--link a:hover{color:#fff}
-.statbar.statbar--marq .stxt b{display:inline;font-size:22px;font-weight:800;color:#fff;margin-right:8px;font-family:"Inter",sans-serif}
+.statbar.statbar--marq .stxt b{display:inline;font-size:22px;font-weight:800;color:#fff;margin-right:8px;font-family:"Inter",sans-serif}.statbar.statbar--marq .spre+b{margin-left:2px}
 .statbar.statbar--marq .sitem svg{width:26px;height:26px;flex:0 0 auto;display:block;color:var(--accent-soft)}
 @keyframes tscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media(max-width:560px){.statbar.statbar--marq{padding:16px 0}.statbar.statbar--marq .sitem{padding:0 22px;font-size:13.5px;background:transparent!important;color:#e7ece6!important;flex-direction:row!important}.statbar.statbar--marq .stxt b{font-size:18px;color:#fff!important}.statbar.statbar--marq .sitem svg{width:22px;height:22px;color:var(--accent-soft)!important}}
